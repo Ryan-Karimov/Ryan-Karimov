@@ -35,8 +35,8 @@
 ---
 
 ### 📫 **Как связаться со мной?**
-📩 Email: **your.email@example.com**  
+📩 Email: **ravshanbekkrmv@gmail.com**  
 📎 LinkedIn: [linkedin.com/in/ваш-профиль](https://linkedin.com/in/ваш-профиль)  
-📎 Telegram: [@ваш_ник](https://t.me/ваш_ник)  
+📎 Telegram: [@Ravshanbek_Karimov_uc](https://t.me/Ravshanbek_Karimov_uc)  
 
 🔥 **Подписывайтесь и смотрите мои проекты!** 🚀
