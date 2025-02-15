@@ -1,14 +1,15 @@
-<h1 align="center">Привет! 👋 Я Ravshanbek Yaminjon ugli</h1>
+<h1 align="center">Привет! 👋 Я Ravshanbek Karimov</h1>
 
 💻 **Backend-разработчик (Node.js, Fastify, PostgreSQL, RabbitMQ)**  
 🚀 **Создаю масштабируемые и высокопроизводительные системы**  
+🔍 **Всегда открыт для сложных и интересных задач**
 🎯 **Ищу возможность присоединиться к FAANG**  
 
 ---
 
 ### 🚀 **Мой стек технологий**
-- 🔹 **Backend**: Node.js (Fastify, NestJS), Python (Django, DRF)
-- 🗄️ **Базы данных**: PostgreSQL, SQLite
+- 🔹 **Backend**: Node.js (Fastify, NestJS, ExpressJS), Python (Django, DRF, Flask)
+- 🗄️ **Базы данных**: PostgreSQL, SQLite, MongoDB
 - 📡 **Очереди**: RabbitMQ, BullMQ
 - 🛠 **DevOps**: Docker, Nginx, Linux
 - ⚡ **Другие**: WebSockets, Redis, gRPC
